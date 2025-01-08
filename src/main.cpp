@@ -4,7 +4,7 @@
 
 // WLAN-ZugangsdatenIOT
 const char* ssid = "IOT";
-const char* password = "V1als18CIgWntxtJJnPk";
+const char* password = "";
 
 // Modbus-Konfiguration
 ModbusRTU mb;
